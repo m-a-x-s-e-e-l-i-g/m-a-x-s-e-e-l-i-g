@@ -71,6 +71,7 @@
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/Confluence-%23172BF4.svg?logo=confluence&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="FL Studio" src="https://img.shields.io/badge/FL%20Studio%2020-e4692c?&logoColor=FFFFFF"></a>
     <a href="#"><img alt="GIMP" src="https://img.shields.io/badge/Gimp-657D8B?logo=gimp&logoColor=FFFFFF"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"></a>
