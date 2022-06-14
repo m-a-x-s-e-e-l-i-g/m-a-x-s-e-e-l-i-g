@@ -95,8 +95,8 @@
 <a href="https://www.facebook.com/maxse" target="_blank">
 <img src=https://img.shields.io/badge/maxse-%232E87FB.svg?&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/maxse_pk" target="_blank">
-<img src=https://img.shields.io/badge/maxse_pk-%23000000.svg?&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://instagram.com/max.impacts" target="_blank">
+<img src=https://img.shields.io/badge/max.impacts-%23000000.svg?&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/m01xx" target="_blank">
 <img src=https://img.shields.io/badge/m01xx-%232CA5E0.svg?&logo=telegram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
