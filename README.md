@@ -97,6 +97,8 @@
 </a>
 <a href="https://instagram.com/max.impacts" target="_blank">
 <img src=https://img.shields.io/badge/max.impacts-%23000000.svg?&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://instagram.com/max.dedication" target="_blank">
+<img src=https://img.shields.io/badge/max.dedication-%23000000.svg?&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/m01xx" target="_blank">
 <img src=https://img.shields.io/badge/m01xx-%232CA5E0.svg?&logo=telegram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
