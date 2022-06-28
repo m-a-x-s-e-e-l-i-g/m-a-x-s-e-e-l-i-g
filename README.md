@@ -132,22 +132,3 @@
 <div align="center">
 <h2>🎶🎧🎶</h2>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=21x6vtoo6xz7r66reiy3cmsmq&cover_image=true&theme=default&bar_color_cover=true" /></div>  
-
-<br/>    
-
-<br/>  
-<div align="center">
-<h2>Buy me Frozen Pizza🍕</h2>
-            <a href="https://paypal.me/maxseelig" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white" 
-                    align="center"
-                />
-            </a></div>
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=m-a-x-s-e-e-l-i-g&&style=flat-square" align="center" />
-</div>  
