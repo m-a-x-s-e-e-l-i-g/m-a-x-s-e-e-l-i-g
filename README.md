@@ -9,10 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%23FD9D03&size=30&center=true&vCenter=true&lines=My+name+is+MAX!" alt="My name is MAX!"/>
 <br>
 
-🏢DEV @ <a href="http://www.mailcampaigns.nl/" target="_blank">MailCampaigns</a>
-
-🌱 Currently learning Laravel
-
+🏢 DEV @ <a href="http://www.mailcampaigns.nl/" target="_blank">MailCampaigns</a>
 ❓ Ask me about e-mail marketing
 
 </div>
@@ -72,6 +69,7 @@
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/Confluence-%23172BF4.svg?logo=confluence&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Electron.js" src="https://img.shields.io/badge/Electron-%232b2e3b.svg?logo=electron&logoColor=white"></a>
     <a href="#"><img alt="FL Studio" src="https://img.shields.io/badge/FL%20Studio%2020-e4692c?&logoColor=FFFFFF"></a>
     <a href="#"><img alt="GIMP" src="https://img.shields.io/badge/Gimp-657D8B?logo=gimp&logoColor=FFFFFF"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
@@ -83,6 +81,7 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
 </div>
 <br/>  
 
