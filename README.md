@@ -63,6 +63,7 @@
     <a href="#"><img alt="Adobe Lightroom" src="https://img.shields.io/badge/Lightroom-%2331A8FF.svg?logo=adobelightroom&logoColor=white"></a>
     <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white"></a>
     <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
+    <a href="#"><img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-9999FF.svg?logo=DaVinci%20Resolve&logoColor=white"></a>
     <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
     <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
     <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white"></a>
