@@ -53,6 +53,7 @@
 <p>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-000.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-1c1c1c.svg?logo=supabase&logoColor=3fcf8e"></a>
 </p>
 
 <h3>💻 Software and tools</h3>
