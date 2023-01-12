@@ -65,21 +65,17 @@
     <a href="#"><img alt="Adobe Lightroom" src="https://img.shields.io/badge/Lightroom-%2331A8FF.svg?logo=adobelightroom&logoColor=white"></a>
     <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white"></a>
     <a href="#"><img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?logo=Adobe%20Premiere%20Pro&logoColor=white"></a>
-    <a href="#"><img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-9999FF.svg?logo=DaVinci%20Resolve&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
     <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
     <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white"></a>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/Confluence-%23172BF4.svg?logo=confluence&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="FL Studio" src="https://img.shields.io/badge/FL%20Studio%2020-e4692c?&logoColor=FFFFFF"></a>
-    <a href="#"><img alt="GIMP" src="https://img.shields.io/badge/Gimp-657D8B?logo=gimp&logoColor=FFFFFF"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-F05033.svg?logo=gitlab&logoColor=white"></a>
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-%230A0FFF.svg?logo=jira&logoColor=white"></a>
     <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
@@ -104,7 +100,7 @@
 <a href="https://t.me/m01xx" target="_blank">
 <img src=https://img.shields.io/badge/m01xx-%232CA5E0.svg?&logo=telegram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/m01xx" target="_blank">
+<a href="https://account.xbox.com/Profile?Gamertag=Snurkpop" target="_blank">
 <img src=https://img.shields.io/badge/Snurkpop-%23107C10.svg?logo=Xbox&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
