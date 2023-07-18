@@ -13,6 +13,14 @@
 👩‍💻 Developing <a href="http://www.mailcampaigns.nl/" target="_blank">MailCampaigns</a>
 ❓ Ask me about e-mail marketing
 
+<h2>Creative Portfolio</h2>
+Be sure to check out my creative work under the name <a href="https://www.maxmade.nl/" target="_blank">MAXmade</a>.
+<br/>
+<br/>
+<a href="https://www.maxmade.nl/" target="_blank">
+<img src="https://images.squarespace-cdn.com/content/v1/64aadb8527aa1839b32598e0/db67aa90-5724-4863-9bb1-2cd36f190361/logo-MAXmade-FFF%5B1%5D.png?format=1500w" alt="MAXmade logo"/>
+</a>
+
 </div>
 <br/>
 <div align="center">
@@ -102,13 +110,6 @@
   
 
 <br/>  
-
-<div align="center">
-<h2>Github Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=m-a-x-s-e-e-l-i-g&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>  
-<br/>  
-
 
 <div align="center">
 <h2>Blogs & Papers</h2>
