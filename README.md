@@ -95,8 +95,8 @@ Be sure to check out my creative work under the name <a href="https://www.maxmad
 <a href="https://www.facebook.com/maxse" target="_blank">
 <img src=https://img.shields.io/badge/maxse-%232E87FB.svg?&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/max.impacts" target="_blank">
-<img src=https://img.shields.io/badge/max.impacts-%23000000.svg?&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://instagram.com/the.maxest" target="_blank">
+<img src=https://img.shields.io/badge/the.maxest-%23000000.svg?&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 <a href="https://instagram.com/maxseelig_photography" target="_blank">
 <img src=https://img.shields.io/badge/maxseelig_photography-%23000000.svg?&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
