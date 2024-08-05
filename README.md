@@ -9,16 +9,26 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%23FD9D03&size=30&center=true&vCenter=true&lines=My+name+is+MAX!" alt="My name is MAX!"/>
 <br>
 
-🏢 Tech Guy @ <a href="http://www.heroesonly.com/" target="_blank">HeroesOnly</a>
-👩‍💻 Developing <a href="http://www.mailcampaigns.nl/" target="_blank">MailCampaigns</a>
-❓ Ask me about e-mail marketing
-
+🏢 Tech Guy @ <a href="http://www.heroesonly.com/" target="_blank">HeroesOnly</a>  
+👩‍💻 Developing <a href="http://www.mailcampaigns.nl/" target="_blank">MailCampaigns</a>  
+❓ Ask me about e-mail marketing  
+<br/>
+<br/>
 <h2>Creative Portfolio</h2>
 Be sure to check out my creative work under the name <a href="https://www.maxmade.nl/" target="_blank">MAXmade</a>.
 <br/>
 <br/>
 <a href="https://www.maxmade.nl/" target="_blank">
 <img src="https://images.squarespace-cdn.com/content/v1/64aadb8527aa1839b32598e0/db67aa90-5724-4863-9bb1-2cd36f190361/logo-MAXmade-FFF%5B1%5D.png?format=1500w" alt="MAXmade logo"/>
+</a>
+<br/>
+<br/>
+<h2>Developing <a href="https://www.veryfire.io/" target="_blank">VeryFire.io</a></h2>
+A webservice where you can easily filter out low-quality email addresses. 
+<br/>
+<br/>
+<a href="https://www.veryfire.io/" target="_blank">
+<img src="https://app.veryfire.io/img/VeryFire-logo-dark.svg" alt="VeryFire logo"/>
 </a>
 
 </div>
