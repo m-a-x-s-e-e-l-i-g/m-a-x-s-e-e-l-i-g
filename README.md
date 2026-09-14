@@ -1,60 +1,81 @@
 <div align="center">
-<img src="https://i.imgur.com/Q85zm1v.png" align="center" style="width: 100%" />
-</div>  
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/maxmade-logo-dark.webp" type="image/webp" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/maxmade-logo-dark.png" type="image/png" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/maxmade-logo-light.webp" type="image/webp" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/maxmade-logo-light.png" type="image/png" />
+    <img src="./assets/maxmade-logo-light.png" alt="MAXmade logo" width="320" />
+  </picture>
 
-<div align="center">
-Ⓜ️🅰️❎Ⓜ️🅰️❎Ⓜ️🅰️❎Ⓜ️🅰️❎Ⓜ️🅰️❎Ⓜ️🅰️❎
-<br/>
-<img src="https://readme-typing-svg.herokuapp.com?color=%23FD9D03&size=30&center=true&vCenter=true&lines=My+name+is+MAX!" alt="My name is MAX!"/>
-<br>
+  <h1>Hi, I'm Max.</h1>
 
-🏢 Tech Guy @ <a href="http://www.heroesonly.com/" target="_blank">HeroesOnly</a>  
-👩‍💻 Developing <a href="http://www.mailcampaigns.nl/" target="_blank">MailCampaigns</a>  
-❓ Ask me about e-mail marketing  
-<br/>
-<br/>
-<h2>Creative Portfolio</h2>
-Be sure to check out my creative work under the name <a href="https://www.maxmade.nl/" target="_blank">MAXmade</a>.
-<br/>
-<br/>
-<a href="https://www.maxmade.nl/" target="_blank">
-<img src="https://images.squarespace-cdn.com/content/v1/64aadb8527aa1839b32598e0/db67aa90-5724-4863-9bb1-2cd36f190361/logo-MAXmade-FFF%5B1%5D.png?format=1500w" alt="MAXmade logo"/>
-</a>
-<br/>
-<br/>
-<h2>Developing <a href="https://www.veryfire.io/" target="_blank">VeryFire.io</a></h2>
-A webservice where you can easily filter out low-quality email addresses. 
-<br/>
-<br/>
-<a href="https://www.veryfire.io/" target="_blank">
-<img src="https://app.veryfire.io/img/VeryFire-logo-dark.svg" alt="VeryFire logo"/>
-</a>
+  <p>
+    <strong>I build useful things for the web, the wall, and the weekend.</strong>
+    <br />
+    Web developer · builder · photographer · parkour athlete
+  </p>
 
+  <p>
+    <a href="https://www.maxmade.nl/">See everything on MAXmade ↗</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="mailto:max@maxmade.nl">Say hello ↗</a>
+  </p>
 </div>
-<br/>
+
+---
+
+## Right now
+
+**Building useful software** — I turn messy, real-world problems into focused web apps, APIs, dashboards, and small tools that are fast to use and easy to understand.
+
+**Exploring the edges** — Lately that means email security, Reticulum-native field communication, local-first video processing, parkour communities, and creative projects that sit somewhere between code and art.
+
+## A little about me
+
+I'm Max — a web developer, creator, and parkour athlete from Bergen op Zoom, the Netherlands. I spend most of my time building digital tools and coding ideas into reality, then stepping away from the screen for parkour, photography, music, and creative side projects under the MAXmade name. I like keeping things simple, fast, and fun — in code and in life.
+
+## Selected work
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| <img src="./assets/projects/reticom.png" width="44" alt="Reticom icon" /><br /><strong>Reticom</strong><br /><sub>Python · Reticulum · Android / Windows</sub> | Map-first team communication with offline-first Field and Command apps for teams that need maps, voice, text, and shared operational context. | [Project](https://github.com/m-a-x-s-e-e-l-i-g/Reticom)<br />[Releases](https://github.com/m-a-x-s-e-e-l-i-g/Reticom/releases/latest) |
+| <img src="./assets/projects/chronophoto.png" width="44" alt="Chronophoto icon" /><br /><strong>Chronophoto</strong><br /><sub>Python · PySide6 · OpenCV</sub> | Turn a short action video into one layered motion photograph, processed privately on your own computer. | [Details](https://www.maxmade.nl/projects/chronophoto)<br />[Source](https://github.com/m-a-x-s-e-e-l-i-g/chronophoto) |
+| <img src="./assets/projects/dmarc-hark.jpg" width="44" height="44" alt="DMARC-hark workspace" /><br /><strong>DMARC-hark</strong><br /><sub>Svelte · Python · ClickHouse</sub> | A monitoring workspace for domain risk, investigation, and live mailbox ingestion tracking. | [Details](https://www.maxmade.nl/projects/dmarc-hark)<br />[Source](https://github.com/m-a-x-s-e-e-l-i-g/DMARC-hark) |
+| <img src="./assets/projects/pkfr.png" width="44" alt="PKFR.nl icon" /><br /><strong>PKFR.nl</strong><br /><sub>Svelte · SvelteKit</sub> | A central hub for the Dutch parkour and freerunning community: spots, events, and people in one place. | [Details](https://www.maxmade.nl/projects/pkfr)<br />[Visit](https://pkfr.nl/) |
+| <img src="./assets/projects/jumpflix.png" width="44" alt="JUMPFLIX icon" /><br /><strong>JUMPFLIX</strong><br /><sub>Svelte · SvelteKit</sub> | Curated parkour and freerunning films, documentaries, and playlists for the community. | [Details](https://www.maxmade.nl/projects/jumpflix-tv)<br />[Visit](https://jumpflix.tv/) |
+| <img src="./assets/projects/sessiongoals.png" width="44" alt="SessionGoals icon" /><br /><strong>SessionGoals</strong><br /><sub>Svelte · Supabase</sub> | A training companion for athletes who want to set goals, track sessions, and keep moving. | [Details](https://www.maxmade.nl/projects/sessiongoals)<br />[Visit](https://sessiongoals.com/) |
+| <img src="./assets/projects/veryfire.png" width="44" alt="VeryFire.io icon" /><br /><strong>VeryFire.io</strong><br /><sub>Web · SaaS · API</sub> | Email verification that helps teams clean their lists, improve deliverability, and make marketing more reliable. | [Details](https://www.maxmade.nl/projects/veryfire)<br />[Visit](https://www.veryfire.io/) |
+
+[Browse the full project shelf ↗](https://www.maxmade.nl/#projects)
+
+## Beyond the build
+
+| Focus | Explore |
+| --- | --- |
+| **Photography**<br />A chaotic stream of moments captured through my lens. | [Open the gallery ↗](https://www.maxmade.nl/#photography) |
+| **Konine Art**<br />Expressive rabbit drawings, printed on canvas and made to be a little strange. | [Visit the gallery ↗](https://www.konine.art/) |
+| **Music**<br />Beats, experiments, and unfinished ideas under the MAXmade name. | [Listen on SoundCloud ↗](https://soundcloud.com/m01x) |
+
+<details>
+  <summary><strong>More small tools and experiments</strong></summary>
+  <br />
+  <a href="https://renault-dacia-radio-code-generator.netlify.app/">Renault Radio Code Generator</a> ·
+  <a href="https://github.com/m-a-x-s-e-e-l-i-g/renault-radio-code-generator">source</a><br />
+  <a href="https://github.com/m-a-x-s-e-e-l-i-g/konijn">Konijn Art Gallery</a> ·
+  <a href="https://www.konine.art/">live gallery</a>
+</details>
+
+---
+
 <div align="center">
-<!-- https://github.com/Ileriayo/markdown-badges -->
-
-
-
-<div align="center">
-<h2> Connect with me</h2>
-<a href="https://linkedin.com/in/maxse" target="_blank">
-<img src=https://img.shields.io/badge/maxse-%231E77B5.svg?&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/maxse" target="_blank">
-<img src=https://img.shields.io/badge/maxse-%232E87FB.svg?&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/the.maxest" target="_blank">
-<img src=https://img.shields.io/badge/the.maxest-%23000000.svg?&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-<a href="https://instagram.com/maxseelig_photography" target="_blank">
-<img src=https://img.shields.io/badge/maxseelig_photography-%23000000.svg?&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://t.me/m01xx" target="_blank">
-<img src=https://img.shields.io/badge/m01xx-%232CA5E0.svg?&logo=telegram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://account.xbox.com/Profile?Gamertag=Snurkpop" target="_blank">
-<img src=https://img.shields.io/badge/Snurkpop-%23107C10.svg?logo=Xbox&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+  <sub>Have an interesting problem, project, or idea?</sub><br />
+  <a href="mailto:max@maxmade.nl"><strong>Let's make something useful.</strong></a>
+  <br /><br />
+  <a href="https://www.maxmade.nl/">MAXmade</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/m-a-x-s-e-e-l-i-g">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/maxse/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/the.maxest/">Instagram</a>
 </div>
